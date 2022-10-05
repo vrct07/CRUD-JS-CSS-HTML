@@ -33,7 +33,7 @@
         height:50px;
         border-radius: 50%;
         position:fixed;
-        top: 80vh;
+        top: 75vh;
         left: 80vw;
     }
     .button.mobile::before{
